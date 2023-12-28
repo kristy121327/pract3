@@ -1,8 +1,0 @@
-﻿  ConsoleApplication1.cpp
-  Data.cpp
-  Nedv.cpp
-  Owner.cpp
-  Price.cpp
-  Создание кода...
-C:\Users\user\Desktop\pr5\ConsoleApplication1\Owner.cpp(57): warning C4715: Owner::is_valid: значение возвращается не при всех путях выполнения
-  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\pr5\x64\Debug\ConsoleApplication1.exe
