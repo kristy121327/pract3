@@ -26,5 +26,5 @@ ostream& operator << (ostream& ost, const Nedv& nedv)
 
 bool Nedv::is_valid() const
 {
-    return true;
+    return (data.is_valid() && price.is_valid());
 }
